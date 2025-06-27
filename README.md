@@ -43,8 +43,9 @@ The frontend course will use:
 
 ### Practice:
 
-- Todo list app in TS
-- API search (e.g., Pokémon or Countries API)
+- Bucketlist or Recipe Manipulation
+- Simple blog
+- Application that gets data from API _( e.g. Star Wars API )_
 
 ## Week 3: React Basics
 
@@ -62,9 +63,7 @@ The frontend course will use:
 
 ### Practice:
 
-- Counter
-- Controlled form component
-- Rewriting the Todo list in React
+- Todo list in React
 
 ## Week 4: React State & Effects
 
@@ -81,8 +80,7 @@ The frontend course will use:
 
 ### Practice:
 
-- API-driven list (e.g., filter/search interface)
-- Expand previous Todo list or build a searchable contact book
+- Account Registration
 
 ## Week 5: Routing & Architecture
 
@@ -99,8 +97,7 @@ The frontend course will use:
 
 ### Practice:
 
-- Multi-page app: Home, About, Details view
-- Basic login mock UI (to connect with backend knowledge)
+- Multi-page app - Cocktail/Meal API
 
 ## Week 6: Finalization & Deepening
 
@@ -117,6 +114,6 @@ The frontend course will use:
 
 ### Practice:
 
-- Mini-project in pairs or solo (2–3 days)
-- Demo & feedback session
-- APL preparation checklist
+- Multi-page app - Cocktail/Meal API
+
+
