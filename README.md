@@ -43,9 +43,9 @@ The frontend course will use:
 
 ### Practice:
 
-- Bucketlist or Recipe Manipulation
+- Recipe Manipulation
 - Simple blog
-- Application that gets data from API _( e.g. Star Wars API )_
+- Application that gets data from API, _( e.g. Star Wars API )_ if there is time.
 
 ## Week 3: React Basics
 
@@ -63,7 +63,8 @@ The frontend course will use:
 
 ### Practice:
 
-- Todo list in React
+- Caffe Retro in React
+- Media Player _( with no media )_
 
 ## Week 4: React State & Effects
 
@@ -81,6 +82,7 @@ The frontend course will use:
 ### Practice:
 
 - Account Registration
+- Todo List in React
 
 ## Week 5: Routing & Architecture
 
