@@ -10,7 +10,7 @@ The frontend course will use:
 
 ## Week 1: HTML & CSS
 
-2025-08-04 to 2025-08-07
+2025-08-04 to 2025-08-08
 
 **Goal:** Build a strong foundation in semantic HTML and responsive CSS.
 
@@ -29,7 +29,7 @@ The frontend course will use:
 
 ## Week 2: TypeScript & DOM
 
-2025-08-08, 2025-08-11 to 2025-08-13
+2025-08-11 to 2025-08-15
 
 **Goal:** Learn TypeScript and how to manipulate the DOM with types.
 
@@ -49,7 +49,7 @@ The frontend course will use:
 
 ## Week 3: React Basics
 
-2025-08-14 to 2025-08-20
+2025-08-18 to 2025-08-22
 
 **Goal:** Introduce React concepts using functional components.
 
@@ -68,9 +68,11 @@ The frontend course will use:
 
 ## Week 4: React State & Effects
 
-2025-08-21 to 2025-08-29
+2025-08-25 to 2025-08-30
 
 **Goal:** Handle side effects and render lists dynamically.
+
+**Important** 26/8 APL-Dag! 
 
 ### Topics:
 
@@ -103,7 +105,7 @@ The frontend course will use:
 
 ## Week 6: Finalization & Deepening
 
-2025-09-08 to 2025-09-12
+2025-09-08 to 2025-09-13
 
 **Goal:** Deepen understanding and prepare for APL.
 
