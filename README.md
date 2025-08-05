@@ -24,6 +24,12 @@ The frontend course will use:
 
 ### Practice:
 
+- [Flexbox Froggy - 24 Levels _(Recommended)_](https://flexboxfroggy.com/#sv)
+- [Flexbox Defense - 12 Levels](http://www.flexboxdefense.com/)
+- [Flexbox Adventure - 24 Levels](https://codingfantasy.com/games/flexboxadventure)
+- [Grid Garden - 28 Levles _(Recommended)_](https://cssgridgarden.com/#sv)
+- [Grid Attack - 80 Levels](https://codingfantasy.com/games/css-grid-attack)
+- [CSS Diner - Master your selectors _(Recommended)_](https://flukeout.github.io/)
 - Recipe
 - Caffe Retro
 
@@ -72,7 +78,7 @@ The frontend course will use:
 
 **Goal:** Handle side effects and render lists dynamically.
 
-**Important** 26/8 APL-Dag! 
+**Important** 26/8 APL-Dag!
 
 ### Topics:
 
@@ -119,5 +125,3 @@ The frontend course will use:
 ### Practice:
 
 - Multi-page app - Cocktail/Meal API
-
-
