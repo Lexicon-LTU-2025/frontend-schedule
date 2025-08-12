@@ -30,8 +30,8 @@ The frontend course will use:
 - [Grid Garden - 28 Levles _(Recommended)_](https://cssgridgarden.com/#sv)
 - [Grid Attack - 80 Levels](https://codingfantasy.com/games/css-grid-attack)
 - [CSS Diner - Master your selectors _(Recommended)_](https://flukeout.github.io/)
-- Recipe
-- Caffe Retro
+- [Recipe](https://github.com/Lexicon-LTU-2025/exercise-html-css-fav-recipe)
+- [Caffe Retro](https://github.com/Lexicon-LTU-2025/exercise-html-css-caffe-retro)
 
 ## Week 2: TypeScript & DOM
 
@@ -49,8 +49,8 @@ The frontend course will use:
 
 ### Practice:
 
-- Recipe Manipulation
-- Simple blog
+- [Recipe Manipulation](https://github.com/Lexicon-LTU-2025/exercise-ts-recipe-manipulation)
+- [Simple blog](https://github.com/Lexicon-LTU-2025/exercise-ts-blog-post-manager)
 - Application that gets data from API, _( e.g. Star Wars API )_ if there is time.
 
 ## Week 3: React Basics
