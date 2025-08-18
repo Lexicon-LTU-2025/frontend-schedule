@@ -69,8 +69,8 @@ The frontend course will use:
 
 ### Practice:
 
-- Caffe Retro in React
-- Media Player _( with no media )_
+- [Caffe Retro in React](https://github.com/Lexicon-LTU-2025/exercise-react-caffe-retro)
+- [Media Player](https://github.com/Lexicon-LTU-2025/exercise-react-media-player) _( with no actual media )_
 
 ## Week 4: React State & Effects
 
