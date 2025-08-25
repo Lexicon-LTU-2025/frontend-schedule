@@ -89,8 +89,8 @@ The frontend course will use:
 
 ### Practice:
 
-- Account Registration
-- Todo List in React
+- [Account Registration](https://github.com/Lexicon-LTU-2025/exercise-react-account-registration)
+- [Todo List in React](https://github.com/Lexicon-LTU-2025/exercise-react-todo-list)
 
 ## Week 5: Routing & Architecture
 
